@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NH sohan
+- 👋 Hi, I’m #NH sohan
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my project
