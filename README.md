@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsohan&label=Profile%20views&color=0e75b6&style=flat" alt="nsohan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsohan" alt="nsohan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/n_h_sohan" target="blank"><img src="https://img.shields.io/twitter/follow/n_h_sohan?logo=twitter&style=for-the-badge" alt="n_h_sohan" /></a> </p>
 
