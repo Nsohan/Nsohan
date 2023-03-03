@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/50475752/222752444-42c970e6-ead1-47a8-9dcc-20ee9917d76b.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Sohan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
