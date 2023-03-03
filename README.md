@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://previews.dropbox.com/p/thumb/AB1gahLcPJne_tpzWwEBWnonkPxeTKhZVR97sYXtMxLmNHeAYxodyrVC-meabFPYqSmYVvsM_RWbaiE8YOx-Yj12lmTHBdink1N7pZ5xC5PQ67W2Xa07lPMecVUmWC4-H-mPo-bHRuBXA-_xROP_el_05yidZg8Lp2tnLyY-0JvzlkiUuJovl4DXjBTiWpeyOcjbnZoEt33NOw7HBrMFDuxP9DaD4YY09SEIFwBAb2-DOC26lCNnefX86kN_NoOYxV3it4qX8cQi2FJj4JzCuWTTEXZH7x7Dl0xelQvcwPRW6HJTiaDDQqvGzqt1Rd5VFxGttNs7Bq4jO-t-V5UyjCddB9vXjflCzTW8mpbg-cSoY7EPKsg2HgxtOg0_cGXOUlQ/p.gif">
+<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/z/neutral-pic-bangladesh-picture-rural-area-109560400.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsohan&label=Profile%20views&color=0e75b6&style=flat" alt="nsohan" /> </p>
 
