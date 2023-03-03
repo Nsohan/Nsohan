@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan</h1>
-![MasterHead](https://user-images.githubusercontent.com/50475752/222752444-42c970e6-ead1-47a8-9dcc-20ee9917d76b.jpg)
+[![MasterHead](https://user-images.githubusercontent.com/50475752/222752444-42c970e6-ead1-47a8-9dcc-20ee9917d76b.jpg)]
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
