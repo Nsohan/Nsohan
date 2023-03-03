@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohan</h1>
+<h1 align="center">Hi<img align="center" alt="Coding" width="50" src="https://user-images.githubusercontent.com/50475752/222755171-e61ad827-dbbb-4e93-9de7-7099e59050c1.gif"> I'm Sohan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 ![MasterHead](https://user-images.githubusercontent.com/50475752/222752444-42c970e6-ead1-47a8-9dcc-20ee9917d76b.jpg)
