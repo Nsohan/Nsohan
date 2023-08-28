@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/n_h_sohan" target="blank"><img src="https://img.shields.io/twitter/follow/n_h_sohan?logo=twitter&style=for-the-badge" alt="n_h_sohan" /></a> </p>
 
-- 🔭 I’m currently working on **my project named TriangleCodex**
+- 🔭 I’m currently working on **my project named DeshiProperty**
 
 - 🌱 I’m currently learning **React**
 
