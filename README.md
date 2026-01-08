@@ -63,10 +63,8 @@ Exploring various aspects of full-stack development and system engineering throu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/n_h_sohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_h_sohan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nsohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsohan" height="30" width="40" /></a>
-<a href="https://fb.com/n.sohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n.sohan" height="30" width="40" /></a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nsohan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nsohan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/n_h_sohan) 
+
 
 ---
 
