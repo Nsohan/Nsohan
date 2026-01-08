@@ -37,10 +37,6 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 | **Build Tools:** Vite | **Server & Deployment:** REST APIs | **Environment:** Linux |
 
 
-> [!TIP]
-> I continuously apply newly learned system-level concepts by integrating performance optimizations into real-world web projects.
-
-
 ### Currently Learning
 - **System Programming:** .NET Framework, Go (Golang)
 - **System Engineering:** Low-level programming concepts, Performance optimization
