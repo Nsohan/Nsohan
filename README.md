@@ -43,8 +43,6 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 ---
 
 
----
-
 ## Projects
 
 **View all projects:** [nhsohan](https://nhsohan.xo.je/projects)
