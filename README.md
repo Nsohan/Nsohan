@@ -15,7 +15,8 @@ Currently building scalable web applications and exploring system-level programm
 ## About Me
 
 I'm a Full-Stack Developer from Bangladesh with expertise in modern web technologies and a growing interest in system engineering. I specialize in building robust, scalable applications using the MERN stack and Laravel, while continuously expanding my skill set into lower-level programming with .NET and Go.
-
+> [!NOTE]
+> My primary focus is building production-ready applications with clean architecture, scalability, and maintainability in mind.
 - Currently working on **LokoProperty** and personal projects
 - Completed: **React, MERN Stack, Laravel**
 - Currently learning: **System Engineering, .NET, Go**
@@ -24,6 +25,8 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 - Email: sohan5538@gmail.com
 
 ---
+
+ 
 
 ## Technical Skills
 
@@ -34,6 +37,9 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 | **Languages:** HTML5, JavaScript (ES6+), TypeScript | **Databases:** MongoDB, MySQL |
 | **UI & Design:** Responsive Design, MUI | **Authentication:** JWT, OAuth |
 | **Build Tools:** Vite | **Server & Deployment:** Nginx, Docker |
+
+> [!TIP]
+> I continuously apply newly learned system-level concepts by integrating performance optimizations into real-world web projects.
 
 
 ### Currently Learning
@@ -46,6 +52,8 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 ## Projects
 
 **View all projects:** [nhsohan](https://nhsohan.xo.je/projects)
+> [!IMPORTANT]
+> Most projects are built with real-world use cases, including authentication, role-based access control, and scalable backend architecture.
 
 
 <h3 align="left">Connect with me:</h3>
