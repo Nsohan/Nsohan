@@ -20,7 +20,7 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 - Completed: **React, MERN Stack, Laravel**
 - Currently learning: **System Engineering, .NET, Go**
 - Open to collaborations on full-stack projects
-- Portfolio: [nhsohan.xo.je](https://nhsohan.xo.je)
+- Portfolio: [nhsohan](https://nhsohan.xo.je)
 - Email: sohan5538@gmail.com
 
 ---
@@ -52,7 +52,7 @@ A comprehensive property management platform built with modern web technologies.
 ### Personal Projects
 Exploring various aspects of full-stack development and system engineering through hands-on projects.
 
-**View all projects:** [nhsohan.xo.je](https://nhsohan.xo.je/projects)
+**View all projects:** [nhsohan](https://nhsohan.xo.je/projects)
 
 
 <h3 align="left">Connect with me:</h3>
