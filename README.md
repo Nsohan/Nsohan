@@ -79,12 +79,5 @@ Exploring various aspects of full-stack development and system engineering throu
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nsohan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 **Open to opportunities and collaborations in Full-Stack Development**
-
-[![](https://visitcount.itsvg.in/api?id=Nsohan&icon=0&color=0)](https://visitcount.itsvg.in)
-
