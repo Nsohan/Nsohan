@@ -1,5 +1,11 @@
 # Sohan - Full Stack Developer
 
+![MasterHead](https://user-images.githubusercontent.com/50475752/222752444-42c970e6-ead1-47a8-9dcc-20ee9917d76b.jpg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsohan&label=Profile%20views&color=0e75b6&style=flat" alt="nsohan" /> </p>
+
+<p align="left"> <a href="https://twitter.com/n_h_sohan" target="blank"><img src="https://img.shields.io/twitter/follow/n_h_sohan?logo=twitter&style=for-the-badge" alt="n_h_sohan" /></a> </p>
+
 **Full-Stack Web Developer | MERN Stack | Laravel | System Engineering**
 
 Currently building scalable web applications and exploring system-level programming.
@@ -55,24 +61,23 @@ Exploring various aspects of full-stack development and system engineering throu
 
 ---
 
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nsohan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/n_h_sohan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/n.sohan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohan5538@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/n_h_sohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_h_sohan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nsohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsohan" height="30" width="40" /></a>
+<a href="https://fb.com/n.sohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n.sohan" height="30" width="40" /></a>
+</p>
 
 ---
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsohan&show_icons=true&theme=default&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsohan&show_icons=true&locale=en&layout=compact" alt="nsohan" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsohan&layout=compact&theme=default&hide_border=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsohan&show_icons=true&locale=en" alt="nsohan" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsohan&theme=default&hide_border=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsohan&" alt="nsohan" /></p>
 
 ---
 
 **Open to opportunities and collaborations in Full-Stack Development**
-
