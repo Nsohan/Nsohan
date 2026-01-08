@@ -28,13 +28,14 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 
 ## Technical Skills
 
-| **Frontend Development** | **Backend Development** |
-|--------------------------|-------------------------|
-| **Frameworks & Libraries:** React.js, Next.js | **Node.js:** Express.js, RESTful APIs |
-| **Styling:** CSS3, Tailwind CSS, Bootstrap | **PHP:** Laravel Framework |
-| **Languages:** HTML5, JavaScript (ES6+), TypeScript | **Databases:** MongoDB, MySQL |
-| **UI & Design:** Responsive Design, MUI | **Authentication:** JWT, OAuth |
-| **Build Tools:** Vite | **Server & Deployment:** Nginx, Docker |
+| **Frontend Development** | **Backend Development** | **DevOps & Tools** |
+|--------------------------|--------------------------|--------------------|
+| **Frameworks & Libraries:** React.js, Next.js | **Node.js:** Express.js, RESTful APIs | **Version Control:** Git, GitHub |
+| **Styling:** CSS3, Tailwind CSS, Bootstrap | **PHP:** Laravel Framework | **Containerization:** Docker |
+| **Languages:** HTML5, JavaScript (ES6+), TypeScript | **Databases:** MongoDB, MySQL | **Web Server:** Nginx |
+| **UI & Design:** Responsive Design, MUI | **Authentication:** JWT, OAuth | **API Testing:** Postman |
+| **Build Tools:** Vite | **Server & Deployment:** REST APIs | **Environment:** Linux |
+
 
 > [!TIP]
 > I continuously apply newly learned system-level concepts by integrating performance optimizations into real-world web projects.
