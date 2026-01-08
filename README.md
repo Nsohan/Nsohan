@@ -42,11 +42,6 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 - **System Programming:** .NET Framework, Go (Golang)
 - **System Engineering:** Low-level programming concepts, Performance optimization
 
-### Development Tools
-- Version Control: Git, GitHub
-- Design: Figma, Adobe Photoshop, Adobe Illustrator
-- Other: Firebase, Arduino, Android Development (Basic)
-
 ---
 
 ## Featured Projects
