@@ -1,44 +1,78 @@
-<h1 align="center">Hi<img align="center" alt="Coding" width="50" src="https://user-images.githubusercontent.com/50475752/222755171-e61ad827-dbbb-4e93-9de7-7099e59050c1.gif"> I'm Sohan</h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+# Sohan - Full Stack Developer
 
-![MasterHead](https://user-images.githubusercontent.com/50475752/222752444-42c970e6-ead1-47a8-9dcc-20ee9917d76b.jpg)
+**Full-Stack Web Developer | MERN Stack | Laravel | System Engineering**
 
+Currently building scalable web applications and exploring system-level programming.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsohan&label=Profile%20views&color=0e75b6&style=flat" alt="nsohan" /> </p>
+## About Me
 
+I'm a Full-Stack Developer from Bangladesh with expertise in modern web technologies and a growing interest in system engineering. I specialize in building robust, scalable applications using the MERN stack and Laravel, while continuously expanding my skill set into lower-level programming with .NET and Go.
 
-<p align="left"> <a href="https://twitter.com/n_h_sohan" target="blank"><img src="https://img.shields.io/twitter/follow/n_h_sohan?logo=twitter&style=for-the-badge" alt="n_h_sohan" /></a> </p>
+- Currently working on **LokoProperty** and personal projects
+- Completed: **React, MERN Stack, Laravel**
+- Currently learning: **System Engineering, .NET, Go**
+- Open to collaborations on full-stack projects
+- Portfolio: [nhsohan.xo.je](https://nhsohan.xo.je)
+- Email: sohan5538@gmail.com
 
-- 🔭 I’m currently working on **my project named DeshiProperty**
+---
 
-- 🌱 I’m currently learning **React**
+## Technical Skills
 
-- 🤝 I’m looking for help with **React**
+### Frontend Development
+- **Frameworks & Libraries:** React.js, Next.js
+- **Styling:** CSS3, Tailwind CSS, Bootstrap
+- **Tools:** HTML5, JavaScript (ES6+), Responsive Design
 
-- 👨‍💻 All of my projects are available at [https://webtechbd.netlify.app/](https://webtechbd.netlify.app/)
+### Backend Development
+- **Node.js:** Express.js, RESTful APIs
+- **PHP:** Laravel Framework
+- **Database:** MongoDB, MySQL
+- **Authentication:** JWT, OAuth
 
-- 💬 Ask me about **React, Js**
+### Currently Learning
+- **System Programming:** .NET Framework, Go (Golang)
+- **System Engineering:** Low-level programming concepts, Performance optimization
 
-- 📫 How to reach me **sohan5538@gmail.com**
+### Development Tools
+- Version Control: Git, GitHub
+- Design: Figma, Adobe Photoshop, Adobe Illustrator
+- Other: Firebase, Arduino, Android Development (Basic)
 
-- 📄 Know about my experiences [https://scintillating-lebkuchen-1fbe68.netlify.app](https://scintillating-lebkuchen-1fbe68.netlify.app)
+---
 
-- ⚡ Fun fact **believein Tech**
+## Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/n_h_sohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_h_sohan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nsohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsohan" height="30" width="40" /></a>
-<a href="https://fb.com/n.sohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n.sohan" height="30" width="40" /></a>
-</p>
+### LokoProperty
+A comprehensive property management platform built with modern web technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Personal Projects
+Exploring various aspects of full-stack development and system engineering through hands-on projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsohan&show_icons=true&locale=en&layout=compact" alt="nsohan" /></p>
+**View all projects:** [nhsohan.xo.je](https://nhsohan.xo.je)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsohan&show_icons=true&locale=en" alt="nsohan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsohan&" alt="nsohan" /></p>
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nsohan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/n_h_sohan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/n.sohan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohan5538@gmail.com)
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsohan&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsohan&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsohan&theme=default&hide_border=true)
+
+---
+
+**Open to opportunities and collaborations in Full-Stack Development**
+
