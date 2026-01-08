@@ -57,7 +57,7 @@ A comprehensive property management platform built with modern web technologies.
 ### Personal Projects
 Exploring various aspects of full-stack development and system engineering through hands-on projects.
 
-**View all projects:** [nhsohan.xo.je](https://nhsohan.xo.je)
+**View all projects:** [nhsohan.xo.je](https://nhsohan.xo.je/projects)
 
 
 <h3 align="left">Connect with me:</h3>
