@@ -1,4 +1,4 @@
-# Sohan - Full Stack Developer
+# Nasimul Hoque Sohan - Full Stack Developer
 
 ![MasterHead](https://user-images.githubusercontent.com/50475752/222752444-42c970e6-ead1-47a8-9dcc-20ee9917d76b.jpg)
 
