@@ -58,8 +58,8 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 </p>
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nsohan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Nsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Nsohan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Tech Stack:
