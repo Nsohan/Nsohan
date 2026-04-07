@@ -37,8 +37,8 @@ I'm a Full-Stack Developer from Bangladesh with expertise in modern web technolo
 | **Build Tools:** Vite | **Server & Deployment:** REST APIs |
 
 ### Currently Learning
-- **System Programming:** .NET Framework, Go (Golang)
-- **System Engineering:** Low-level programming concepts, Performance optimization
+- **System Programming:** NestJS, Monorepo
+- **System Engineering:** Low-level programming concepts, Performance optimisation
 
 ---
 
